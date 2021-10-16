@@ -1,6 +1,6 @@
-#06-DARS. SONLAR.
+"""06-DARS. SONLAR."""
 
-#Amaliyot
+"""Amaliyot"""
 
 #1)
 
