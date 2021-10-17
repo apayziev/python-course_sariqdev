@@ -17,8 +17,7 @@
 # print("Siz", sizning_yoshingiz, "da tug'ilgansiz")
 
 #3)
-
-#1-usul
+ #1-usul
 
 # birinchi_son = int(input("Birinchi sonni kiriting: "))
 # ikkinchi_son = int(input("Ikkinchi sonni kiriting: "))
