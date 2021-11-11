@@ -3,7 +3,7 @@
 22-DARS. MOSLASHUVCHAN FUNKSIYA (*args, **kwargs)
 """
 
-"""AMALOYOT"""
+"""AMALOYOT YECHIMLARI"""
 
 #1]
 
