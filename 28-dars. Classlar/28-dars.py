@@ -1,7 +1,6 @@
 
 """
 28-DARS. KLASSLAR
-
 """
 
 """AMALIYOT"""
