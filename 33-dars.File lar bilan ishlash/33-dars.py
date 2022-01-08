@@ -59,7 +59,7 @@ while True:
     print("Dasturdan chiqish uchun 'Enter' ni bosing")
     user_input = input("Matn kiriting men text file ochib saqlab boraman: ")
     if user_input == "":
-        print("Dastur yakunlandi!!!")
+        print("Dastur yakunlandi!")
         break
     with open('new_txt_file.txt',"a") as file:
             file.write(user_input + "\n")
