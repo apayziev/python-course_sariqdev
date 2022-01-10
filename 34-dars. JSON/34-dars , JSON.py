@@ -50,7 +50,7 @@ import json
 
 with open('api-result.json') as file:
     list_item = json.load(file)
-# print(list_item["query"]["pages"]["13801"]["title"])
-# print(list_item["query"]["pages"]["13801"]['extract'])   
+print(list_item["query"]["pages"]["13801"]["title"])
+print(list_item["query"]["pages"]["13801"]['extract'])   
 result = json.dumps(list_item, indent = 4)
 print(result)
