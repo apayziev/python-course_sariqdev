@@ -2,4 +2,4 @@
 
 https://mohirdev.uz/courses/python/
 
-Basics of Python language
+# This is my solutions for  "python-course_sariqdev" course tasks
